@@ -1,1 +1,1 @@
-# [BMI Calculator](https://colab.research.google.com/drive/1Ve9_3uLxWaY9ME7rWDOD2rVWJfPHTpPD#scrollTo=e58TSdfCydC2)
+# [BMI Calculator](https://colab.research.google.com/github/ThorX124/BMI-Calculator/blob/main/BMI_Calculator.ipynb))
